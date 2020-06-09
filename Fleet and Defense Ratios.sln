@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fleet and Defense Ratios", "Fleet and Defense Ratios\Fleet and Defense Ratios.csproj", "{AD61F65C-7684-40E0-A68A-3CDDF8BE8074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD61F65C-7684-40E0-A68A-3CDDF8BE8074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD61F65C-7684-40E0-A68A-3CDDF8BE8074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD61F65C-7684-40E0-A68A-3CDDF8BE8074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD61F65C-7684-40E0-A68A-3CDDF8BE8074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA9DF16-5875-472F-9AC2-453590AEA409}
+	EndGlobalSection
+EndGlobal
